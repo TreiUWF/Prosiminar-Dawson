@@ -1,1 +1,10 @@
-# A caucus-race and a long tale
+# Conclusion
+
+3.1 Summary of Key Findings
+In conclusion, as the amount of rain increases the probability of a launch or a delayed launch decreases. This result is not surprising because of the the cost of a rocket launch, the insurance policies, and maintaining of a clean launch history for the rockets calls for heavy caution when it comes to a launch date. One thing to keep in mind is the amount of data with no rain but had scrubbed, delayed, and launch outcome overlapping that had to be removed making it hard to see what happens when there is a lack of rain. 
+
+3.2 Limitations
+Data collection was the biggest limitation that occurred in this process. There lacks to be an obtainable official collection of scrub launch data; nonetheless, data pulled from a public project to accomplish similar statistics was used. 
+
+3.3 Suggestions for Further Study
+To further this project, we suggest adding more independent weather variables along with an increase in the timeline and decrease rocket types. This project was able to show that given rain the chances of a success launch drops significantly, to be able to show any change we had to get rid of a lot of data points with no rain but had different launch results. Adding my variables maybe able to show what happened during those events to make the data distinguishable enough to use. Secondly, increasing the time frame of the data will include more data then from this there can be enough data to look at a specific rocket type. Since different rockets may have a slightly different launch weather criteria, especially manned versus unmanned missions, the model will be able to more accurately tell if a specific platform will be more or less affected. 
